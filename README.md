@@ -1,4 +1,4 @@
-?# [美凯丽](http://meikaili.com) #
+# [美凯丽](http://meikaili.com) #
 
 美凯丽是一个简单好用的淘宝客瀑布流发布、管理系统，她是基于[33pu](https://github.com/yuguo/33pu)修改而来是一个适用于新浪SAE云平台的一个CMS系统。demo：[美凯丽](http://meikaili.com)
 

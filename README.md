@@ -5,4 +5,5 @@
 - 项目详细简介 ：[http://www.mymickey.org/?p=394](http://www.mymickey.org/?p=394)
 - Email：xuebi1109@gmail.com
 - 腾讯微博：[http://t.qq.com/xuebi1109](http://t.qq.com/xuebi1109)
+- 新浪微博 : [http://weibo.com/1781700003/profile?leftnav=1&wvr=3.6&mod=personinfo](http://weibo.com/1781700003/profile?leftnav=1&wvr=3.6&mod=personinfo)
 - 个人主页：[http://mymickey.org](http://mymickey.org)

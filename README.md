@@ -1,9 +1,10 @@
-# [美凯丽](http://meikaili.com) #
+# [锟斤拷锟斤拷锟斤拷](http://meikaili.com) #
 
-美凯丽是一个简单好用的淘宝客瀑布流发布、管理系统，她是基于[33pu](https://github.com/yuguo/33pu)修改而来是一个适用于新浪SAE云平台的一个CMS系统。demo：[美凯丽](http://meikaili.com)
-特点是轻量小巧，底层PHP框架使用codeigniter，管理后端配备了一个选品程序，可以搜索分类自动生成商品项，他基于yugoo的33pu改造而来以适应于sae平台，我会不断迭代使她变得更加强大合理，请期待。
-- 项目详细简介 ：[http://www.mymickey.org/?p=394](http://www.mymickey.org/?p=394)
-- Email：xuebi1109@gmail.com
-- 腾讯微博：[http://t.qq.com/xuebi1109](http://t.qq.com/xuebi1109)
-- 新浪微博 : [http://weibo.com/1781700003/profile?leftnav=1&wvr=3.6&mod=personinfo](http://weibo.com/1781700003/profile?leftnav=1&wvr=3.6&mod=personinfo)
-- 个人主页：[http://mymickey.org](http://mymickey.org)
+锟斤拷锟斤拷锟斤拷锟斤拷一锟斤拷锟津单猴拷锟矫碉拷锟皆憋拷锟斤拷锟劫诧拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷系统锟斤拷锟斤拷锟角伙拷锟斤拷[33pu](https://github.com/yuguo/33pu)锟睫改讹拷锟斤拷锟斤拷一锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷SAE锟斤拷平台锟斤拷一锟斤拷CMS系统锟斤拷demo锟斤拷[锟斤拷锟斤拷锟斤拷](http://meikaili.com)
+锟截碉拷锟斤拷锟斤拷锟斤拷小锟缴ｏ拷锟阶诧拷PHP锟斤拷锟斤拷使锟斤拷codeigniter锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟戒备锟斤拷一锟斤拷选品锟斤拷锟津，匡拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟皆讹拷锟斤拷锟斤拷锟斤拷品锟筋，锟斤拷锟斤拷锟斤拷yugoo锟斤拷33pu锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷应锟斤拷sae平台锟斤拷锟揭会不锟较碉拷锟斤拷使锟斤拷锟斤拷锟矫革拷锟斤拷强锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟节达拷锟斤拷
+- 锟斤拷目锟斤拷细锟斤拷锟斤拷 锟斤拷[http://www.mymickey.org/?p=394](http://www.mymickey.org/?p=394)
+- Email锟斤拷xuebi1109@gmail.com
+- 锟斤拷讯微锟斤拷锟斤拷[http://t.qq.com/xuebi1109](http://t.qq.com/xuebi1109)
+- 锟斤拷锟斤拷微锟斤拷 : [http://weibo.com/1781700003/profile?leftnav=1&wvr=3.6&mod=personinfo](http://weibo.com/1781700003/profile?leftnav=1&wvr=3.6&mod=personinfo)
+- 锟斤拷锟斤拷锟斤拷页锟斤拷[http://mymickey.org](http://mymickey.org)
+- 鎹愮尞锛歨ttps://me.alipay.com/yuzhenhua
